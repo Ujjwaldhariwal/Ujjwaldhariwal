@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal-0745" alt="ujjwal-0745" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@DhariwalUjjwal" target="blank"><img src="https://img.shields.io/twitter/follow/@dhariwalujjwal?logo=twitter&style=for-the-badge" alt="@DhariwalUjjwal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@DhariwalUjjwal" target="blank"><img src="https://img.shields.io/twitter/follow/@DhariwalUjjwal?logo=twitter&style=for-the-badge" alt="@DhariwalUjjwal" /></a> </p>
 
 - 🔭 I’m currently working on **REACT**
 
