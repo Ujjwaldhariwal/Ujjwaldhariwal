@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rustico&size=30&pause=1000&color=FFD700&background=7B3F0000&center=true&vCenter=true&width=1000&height=100&lines=Hey+there+geekyheads;Its+me+Ujjwal+%F0%9F%91%8B;Developer+Programmer+Musician)](https://git.io/typing-svg)
 
-<center><img src="https://i.pinimg.com/originals/d2/e5/8b/d2e58b5a43b7f21bb9f06167e3980224.gif" alt="what image shows" height="250" width="1000"></center>
+<center><img src="https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif" height="400" width="1000"></center>
 
 <h3 align="center">A passionate  developer ,software engineer and Musician from Chandigarh,india </h3>
 
