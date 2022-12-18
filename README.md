@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rustico&size=30&pause=1000&color=E5989B&background=7B3F0000&center=true&vCenter=true&width=1000&height=100&lines=Hey+there+geekyheads;Its+me+Ujjwal+%F0%9F%91%8B;Developer+Programmer+Musician)](https://git.io/typing-svg)
 
-<center><img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/manga.png" height="500" width="1000"></center>
+<center><img src="images/manga.png" height="500" width="1000"></center>
 
 <h3 align="center">A passionate  developer ,software engineer and Musician from Chandigarh,india </h3>
 
@@ -19,5 +19,10 @@
  
 
 ![Ujjwal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ujjwaldhariwal&theme=monokai)
+ 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ujjwaldhariwal&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
+<center><p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="images/byebye.gif"><img src="images/byebye.gif"  ></a></p></center>
+ 
+[![](https://visitcount.itsvg.in/api?id=Ujjwaldhariwal&label=Profile%20Views%20&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
