@@ -2,7 +2,7 @@
 
 <center><img src="images/manga.png" height="500" width="1000"></center>
 
-<h3 align="center">A passionate  developer ,software engineer and Musician from Chandigarh,india </h3>
+<h3 align="center">A passionate developer, software engineer and Musician from Chandigarh, india </h3>
 
 
 
