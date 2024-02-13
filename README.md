@@ -13,7 +13,6 @@
 #  GitHub Stats:
 
 [![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujjwaldhariwal&show_icons=true&theme=bear)](https://github.com/Ujjwaldhariwal/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ujjwaldhariwal&repo=github-readme-stats&show_icons=true&theme=bear)](https://github.com/Ujjwaldhariwal/github-readme-stats)
 
  
 
